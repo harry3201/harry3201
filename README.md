@@ -3,7 +3,7 @@
 
 🌱 Currently, I'm delving into learning MERN , refining my skills to engineer seamless experiences and robust systems.
 
-💞️ I'm actively seeking collaborative opportunities to engineer the future, whether it's building scalable applications or pioneering AI-driven technologies. Let's join forces and engineer something extraordinary!
+🎯 I'm actively seeking collaborative opportunities to engineer the future, whether it's building scalable applications or pioneering AI-driven technologies. Let's join forces and engineer something extraordinary!
 
 📫 Drop me a line at h.incworks@gmail.com or connect with me on LinkedIn. I'm always eager to connect with fellow engineers and visionaries.
 
