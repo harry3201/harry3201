@@ -8,6 +8,8 @@
 📫 Drop me a line at h.incworks@gmail.com or connect with me on LinkedIn. I'm always eager to connect with fellow engineers and visionaries.
 
 ⚡ Fun fact: The first computer bug was an actual moth found trapped in a relay of the Harvard Mark II computer in 1947, coining the term "debugging" in the world of engineering!
+
+
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=harry3201)](https://github.com/FajarKim/github-readme-profile)
 
 <!---
