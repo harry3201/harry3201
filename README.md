@@ -1,13 +1,10 @@
 Exploring Tech!
 📫 : Lets connect at h.incworks@gmail.com or on LinkedIn.
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=harry3201&color=yellow&abbreviated=true&label=SEEN+BY&style=plastic)
-
-
-
-
-
-
-[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry3201)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry3201&show_icons=true&theme=aura)
 
