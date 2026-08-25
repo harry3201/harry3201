@@ -38,16 +38,7 @@
 
 
 
-### GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harry3201&show_icons=true&theme=aura&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry3201&layout=compact&langs_count=8&theme=aura&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry3201&theme=aura&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harry3201&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
